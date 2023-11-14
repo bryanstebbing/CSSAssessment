@@ -1,0 +1,50 @@
+.subjectHeader {
+	color: darkgreen;
+	font-family: sans-serif;
+}
+
+#scoreBoard{
+  border: 1px solid #000; 
+  border-collapse: collapse;
+}
+
+th {
+  font-weight: bold;
+  color: darkblue; 
+  text-align: center; 
+}
+
+td {
+  text-align: center; 
+}
+
+ul {
+  list-style-type: square; 
+}
+
+a:hover {
+  background-color: darkgray; 
+  text-decoration: none; 
+}
+
+.secondParagraph{
+	background-color: black;
+	color: ghostwhite;
+}
+
+.broncos{
+	background-image: url('https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg');
+	height: 170px;
+	width: 295px;
+}
+
+.bears{
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg');
+	height: 130px;
+	width: 195px;
+}
+
+
+#checkbox-grid {
+  list-style-type: none;
+}
